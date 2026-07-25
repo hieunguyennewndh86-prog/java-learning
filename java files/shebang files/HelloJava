@@ -1,0 +1,10 @@
+#!/Users/hieunguyen.ndh.86/Downloads/old/software/jdk-26.0.2.jdk/Contents/Home/bin/java --source 26
+
+// #!/path/to/your/bin/java --source 26
+
+ 
+public class HelloJava {
+    public static void main(String[] args) {
+       IO.println("Hello " + args[0]);
+    }
+}
